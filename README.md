@@ -1,4 +1,4 @@
-# Solana Transaction Example
+# Solana Transaction
 The code calculates the balance of a sender wallet, transfers 50% of the balance to another wallet, and then displays the updated balances of both wallets.
 
  Install dependencies:
